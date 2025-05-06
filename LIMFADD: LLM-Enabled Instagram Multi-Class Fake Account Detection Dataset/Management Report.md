@@ -3,7 +3,7 @@
 ### Objective
 
 This project aims to develop a machine learning model to detect and classify different types of fake accounts on Instagram. By identifying not just whether an account is fake but also its type (e.g., spam bot, scammer, etc.), the solution enhances the platform’s ability to mitigate harmful user activity.
-The LLM aspect of the original LIMFADD dataset was just the augment the dataset using LLM to have a sizeable dataset to train and test the model. Therefore this is a synthetic data set. 
+The LLM aspect of the original LIMFADD dataset was just the augment the dataset using LLM to have a sizeable dataset to train and test the model. Therefore this is a synthetic data set. https://www.tapadhirdas.com/das-lab/datasets/limfadd
 
 ### Dataset & Features
 
