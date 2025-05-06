@@ -21,7 +21,7 @@ Features used in the model include follower/following ratios, post frequency, bi
 2. **Exploratory Data Analysis (EDA)**: Uncovered trends and correlations in the dataset to inform feature engineering.
 3. **Model Development**:
 
-   * Multiple classification algorithms were evaluated (likely Logistic Regression, Random Forest, etc.).
+   * Multiple classification algorithms were evaluated (like Logistic Regression, Random Forest, etc.).
    * Model performance was assessed using standard classification metrics (accuracy, precision, recall, F1-score).
    * Cross-validation ensured robustness and minimized overfitting.
 
@@ -43,4 +43,3 @@ Features used in the model include follower/following ratios, post frequency, bi
 * Periodically retrain the model with new data to maintain detection efficacy.
 * Integrate with user reporting systems for feedback-based learning.
 
----
