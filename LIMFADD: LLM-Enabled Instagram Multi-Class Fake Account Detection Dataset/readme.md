@@ -1,5 +1,10 @@
 # LIMFADD: LLM-Enabled Instagram Multi-Class Fake Account Detection Dataset
 
+This solution contains 3 files 
+*1. Readme (explaining the background of the problem) 
+*2. The solution ipynb file 
+*3. The Management report 
+
 ## Problem Statement
 
 Social media platforms like Instagram are increasingly exploited by malicious actors who create fake accounts to deceive users, disseminate spam, and perpetrate scams. Traditional detection datasets often simplify this challenge by categorizing accounts into binary classes—real or fake—thereby overlooking the nuanced behaviors exhibited by various types of fraudulent accounts. This binary approach limits the effectiveness of detection models in identifying and mitigating diverse malicious activities.([ResearchGate][1], [Google Scholar][2])
