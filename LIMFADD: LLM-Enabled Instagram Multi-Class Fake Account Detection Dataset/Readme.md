@@ -1,7 +1,8 @@
 # LIMFADD: LLM-Enabled Instagram Multi-Class Fake Account Detection Dataset
 
-This solution contains 3 files 
-* 1. Readme (explaining the background of the problem) 
+This solution contains 4 files 
+* 1. Readme (explaining the background of the problem)
+* 2. Dataset
 * 2. The solution ipynb file 
 * 3. The Management report 
 
